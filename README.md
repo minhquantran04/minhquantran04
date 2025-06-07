@@ -6,7 +6,7 @@ Back - end developer
 
 Within the next 2 years, I aim to achieve a TOEIC certificate with a score of 700 or higher to enhance my English proficiency for both academic and professional environments. I plan to pursue a Master's program in Information Technology to broaden my expertise and develop research skills
 
-* 🌍  I'm based in Ho Chi Minh/ Can Tho city
+* 🌍  I'm based in Ho Chi Minh/Can Tho city
 * ✉️  You can contact me at [mquwntran04@gmail.com](mailto:mquwntran04@gmail.com)
 * 🧠  I'm learning ASP.NET, DOCKER, Microservices, TOIEC certificate
 
